@@ -1,2 +1,0 @@
-# KaggleLearning
-Kaggle kernel learning
